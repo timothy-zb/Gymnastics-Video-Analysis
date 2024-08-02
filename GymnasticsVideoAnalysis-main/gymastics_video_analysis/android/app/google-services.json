@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "234813610744",
+    "project_id": "gymnastics-analysis-543bc",
+    "storage_bucket": "gymnastics-analysis-543bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234813610744:android:fb4a3b5e1f1739441db90d",
+        "android_client_info": {
+          "package_name": "com.example.gymnastics_analysis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234813610744-mqev8hka3u265ufit55oqj2d1m67sb5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlLc2UEX-IguRLnTjuwp5wAfm3kedejgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234813610744-mqev8hka3u265ufit55oqj2d1m67sb5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
